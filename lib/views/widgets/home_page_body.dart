@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:music_app/model/music_model.dart';
+import 'package:music_app/models/music_model.dart';
 import 'package:music_app/views/widgets/music_item.dart';
 
 class HomePageBody extends StatelessWidget {
